@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build Setup
 
 ## install server dependencies
@@ -38,3 +39,19 @@ $ npm run dev
 
 ![SurveyAdded](https://github.com/saku1331/E_Commerce_Store/assets/131768879/826688fd-9db0-42a9-8327-76ffd0d52c27)
 
+=======
+
+install server dependencies
+
+$ npm install
+
+install client dependencies
+
+$ cd client
+
+$ npm install 
+
+run it
+
+$ npm run dev
+>>>>>>> b24ca382776dd32fac40003b08a6a845b3a39810
